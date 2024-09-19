@@ -28,7 +28,7 @@ Sou um engenheiro de dados e desenvolvedor web apaixonado por tecnologia e inova
 ### Contato
 
 - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/halisson-gomides) 
-- [![Email](https://img.shields.io/badge/Email-[seuemail@gmail.com]-D3D3D3?style=flat&logo=gmail&logoColor=black)](mailto:halisson.gomides@gmail.com)
+- [![Email](https://img.shields.io/badge/Email-[halisson.gomides@gmail.com]-D3D3D3?style=flat&logo=gmail&logoColor=black)](mailto:halisson.gomides@gmail.com)
 
 ---
 
