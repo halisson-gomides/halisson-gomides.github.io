@@ -1,5 +1,3 @@
-# Halisson Gomides
-
 ## Engenheiro de Dados e Desenvolvedor Web
 
 ### Sobre mim
