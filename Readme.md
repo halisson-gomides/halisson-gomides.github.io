@@ -4,6 +4,12 @@
 
 Sou um engenheiro de dados e desenvolvedor web apaixonado por tecnologia e inovação. Com experiência em diversas linguagens de programação e bancos de dados, busco sempre entregar soluções de alta qualidade e eficiência.
 
+#### Formação
+- Bacharel em Engenharia Elétrica com ênfase em Telecomunicações.
+- Pós-graduado em Gestão de Tecnologia da Informação.
+- Pós-graduado em Inteligência Artificial aplicada.
+- Pós-granduando em Ciência de Dados.
+
 ### Habilidades
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
